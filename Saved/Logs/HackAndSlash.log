@@ -1155,3 +1155,112 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.06.03-14.32.57:516][ 61]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 358.298859
 [2026.06.03-14.32.58:517][ 64]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.06.03-14.32.58:517][ 64]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 358.965332, Update Interval: 324.123047
+[2026.06.03-14.38.25:824][270]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 686.607300
+[2026.06.03-14.38.26:820][273]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.03-14.38.26:820][273]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 687.272095, Update Interval: 303.832520
+[2026.06.03-14.39.39:559][654]LogSequenceNavigator: Deactivating provider: LevelSequence
+[2026.06.03-14.39.40:416][721]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.06.03-14.39.45:533][320]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2026.06.03-14.39.45:533][320]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2026.06.03-14.39.52:519][ 74]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Inventory/TS_Occupied.TS_Occupied
+[2026.06.03-14.39.52:523][ 74]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2026.06.03-14.39.52:528][ 74]LogStreaming: Display: FlushAsyncLoading(401): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.03-14.39.52:847][ 74]LogSlate: Took 0.003050 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.06.03-14.40.05:901][ 80]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.06.03-14.40.06:511][ 81]LogSlate: Window 'TS_Occupied' being destroyed
+[2026.06.03-14.40.59:597][101]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2026.06.03-14.40.59:597][101]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2026.06.03-14.43.34:859][325]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 995.642944
+[2026.06.03-14.43.36:651][328]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.03-14.43.36:651][328]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 996.830200, Update Interval: 348.244263
+[2026.06.03-14.43.37:847][331]LogStreaming: Display: FlushAsyncLoading(402): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.03-14.43.37:850][331]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.03-14.43.37:850][331]LogZenServiceInstance: Display: Local ZenServer recovery being attempted...
+[2026.06.03-14.43.37:850][331]LogZenServiceInstance: Display: Requesting shut down of zenserver process 23132 runnning on effective port 8558
+[2026.06.03-14.43.38:245][331]LogZenServiceInstance: Display: Successfully shut down zenserver process with pid 23132
+[2026.06.03-14.43.38:245][331]LogZenServiceInstance: No current process using the data dir found, launching a new instance
+[2026.06.03-14.43.38:245][331]LogZenServiceInstance: Display: Launching executable 'C:/Users/betri/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe', working dir 'C:/Users/betri/AppData/Local/UnrealEngine/Common/Zen/Install', data dir 'C:/Users/betri/AppData/Local/UnrealEngine/Common/Zen/Data', args '--port 8558 --data-dir "C:\Users\betri\AppData\Local\UnrealEngine\Common\Zen\Data" --http asio --gc-cache-duration-seconds 1209600 --gc-interval-seconds 21600 --gc-low-diskspace-threshold 2147483648 --quiet --http-forceloopback --owner-pid 3208  --child-id Zen_3208_Startup'
+[2026.06.03-14.43.38:353][331]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.03-14.43.38:854][331]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.03-14.43.39:356][331]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.03-14.43.39:857][331]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.03-14.43.40:360][331]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.03-14.43.40:861][346]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.03-14.43.41:463][391]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.03-14.43.41:964][429]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.03-14.43.42:467][467]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.03-14.43.42:968][504]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.03-14.43.43:471][541]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.03-14.43.43:971][580]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.03-14.43.44:473][618]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.03-14.43.44:974][655]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.03-14.43.45:486][693]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.03-14.43.45:987][731]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.03-14.43.46:489][768]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.03-14.43.46:990][805]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.03-14.43.47:493][840]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.03-14.43.47:994][877]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.03-14.43.48:496][912]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.03-14.43.48:997][949]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.03-14.43.49:499][985]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.03-14.43.50:000][ 21]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.03-14.43.50:502][ 38]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.03-14.43.51:003][ 72]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.03-14.43.51:504][108]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.03-14.43.52:006][146]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.03-14.43.52:509][183]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.03-14.43.53:010][219]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.03-14.43.53:511][257]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.03-14.43.54:012][294]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.03-14.43.54:525][331]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.03-14.43.55:026][366]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.03-14.43.55:540][396]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.03-14.43.56:040][430]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.03-14.43.56:542][463]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.03-14.43.57:043][482]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.03-14.43.57:545][507]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.03-14.43.58:046][528]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.03-14.43.58:549][556]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.03-14.43.59:050][575]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.03-14.43.59:552][599]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.03-14.44.00:053][625]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.03-14.44.00:565][644]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.03-14.44.01:065][663]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.03-14.44.01:569][692]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.03-14.44.02:070][717]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.03-14.44.02:673][761]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.03-14.44.03:174][802]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.03-14.44.03:676][861]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.03-14.44.04:177][921]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.03-14.44.04:679][981]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.03-14.44.05:180][ 39]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.03-14.44.05:694][ 99]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.03-14.44.06:194][159]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.03-14.44.06:697][220]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.03-14.44.06:951][248]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.03-14.44.06:987][248]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Inventory/TS_Occupied] ([1] browsable assets)...
+[2026.06.03-14.44.06:991][248]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/Inventory/TS_Occupied.TS_Occupied]
+[2026.06.03-14.44.06:991][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/TS_Occupied]
+[2026.06.03-14.44.06:991][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/TS_Occupied" FILE="../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Inventory/TS_Occupied.uasset" SILENT=true
+[2026.06.03-14.44.07:013][248]LogSavePackage: Moving output files for package: /Game/Inventory/TS_Occupied
+[2026.06.03-14.44.07:014][248]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/TS_Occupied3B28CE2E48D3F2C1A7B7489050D878D5.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Inventory/TS_Occupied.uasset'
+[2026.06.03-14.44.07:028][248]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.273 ms
+[2026.06.03-14.44.07:063][248]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.03-14.44.07:063][248]LogContentValidation: Enabled validators:
+[2026.06.03-14.44.07:064][248]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.03-14.44.07:064][248]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.03-14.44.07:064][248]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.03-14.44.07:064][248]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.03-14.44.07:064][248]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.03-14.44.07:064][248]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.03-14.44.07:066][248]AssetCheck: /Game/Inventory/TS_Occupied Validating asset
+[2026.06.03-14.44.07:081][248]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.03-14.44.07:197][263]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.03-14.44.07:700][323]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.03-14.44.08:200][383]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.03-14.44.08:703][444]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.03-14.44.08:703][444]LogZenServiceInstance: Warning: Local ZenServer recovery timed out waiting for service to become healthy
+[2026.06.03-14.44.08:703][444]LogZenServiceInstance: Display: Local ZenServer recovery finished.
+[2026.06.03-14.44.08:703][444]LogZenServiceInstance: Display: Local ZenServer post recovery status: NOT healthy
+[2026.06.03-14.44.08:703][444]LogDerivedDataCache: Display: ZenLocal: Error response received from GetCacheRecords RPC: from POST http://[::1]:8558//z$/$rpc: Failed to connect to ::1 port 8558 after 0 ms: Could not connect to server."Payload (*/*): 0 bytes"
+[2026.06.03-14.44.08:714][445]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558//z$/$rpc: Failed to connect to ::1 port 8558 after 0 ms: Could not connect to server. "Payload (*/*): 0 bytes"
