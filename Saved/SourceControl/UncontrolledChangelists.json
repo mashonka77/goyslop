@@ -5,6 +5,28 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Documents/Unreal Projects/HackAndSlash/goyslop/Content/Input/Actions/IA_Dodge.uasset",
+				"C:/Documents/Unreal Projects/HackAndSlash/goyslop/Content/Input/IMC_Default.uasset",
+				"C:/Documents/Unreal Projects/HackAndSlash/goyslop/Content/Inventory/Widget/UMG_Grid.uasset",
+				"C:/Documents/Unreal Projects/HackAndSlash/goyslop/Content/Inventory/Widget/UMG_Inventory.uasset",
+				"C:/Documents/Unreal Projects/HackAndSlash/goyslop/Content/Player/Standing_Dodge_Forward.uasset",
+				"C:/Documents/Unreal Projects/HackAndSlash/goyslop/Content/Player/DodgeMON.uasset",
+				"C:/Documents/Unreal Projects/HackAndSlash/goyslop/Content/Player/BP_Player.uasset",
+				"C:/Documents/Unreal Projects/HackAndSlash/goyslop/Content/Player/AnimNotifes/SaveDodgeL2.uasset",
+				"C:/Documents/Unreal Projects/HackAndSlash/goyslop/Content/Player/PlayerLOC/Powerrr_Montage.uasset",
+				"C:/Documents/Unreal Projects/HackAndSlash/goyslop/Content/Player/PlayerLOC/Light44_Montage.uasset",
+				"C:/Documents/Unreal Projects/HackAndSlash/goyslop/Content/Player/AnimNotifes/Save_Dodge.uasset",
+				"C:/Documents/Unreal Projects/HackAndSlash/goyslop/Content/Player/PlayerLOC/Stand_To_Roll.uasset",
+				"C:/Documents/Unreal Projects/HackAndSlash/goyslop/Content/Player/PlayerLOC/Roll.uasset",
+				"C:/Documents/Unreal Projects/HackAndSlash/goyslop/Content/Player/AnimNotifes/EnableIFrames.uasset",
+				"C:/Documents/Unreal Projects/HackAndSlash/goyslop/Content/Player/AGAIN.uasset",
+				"C:/Documents/Unreal Projects/HackAndSlash/goyslop/Content/Input/Actions/IA_Jump.uasset",
+				"C:/Documents/Unreal Projects/HackAndSlash/goyslop/Content/Inventory/TL_ItemLayout.uasset",
+				"C:/Documents/Unreal Projects/HackAndSlash/goyslop/Content/Player/PlayerLOC/Light11_Montage.uasset",
+				"C:/Documents/Unreal Projects/HackAndSlash/goyslop/Content/Player/PlayerLOC/Light22_Montage.uasset",
+				"C:/Documents/Unreal Projects/HackAndSlash/goyslop/Content/Player/PlayerLOC/Light33_Montage.uasset",
+				"C:/Documents/Unreal Projects/HackAndSlash/goyslop/Content/Player/PlayerLOC/Powerr_Montage.uasset",
+				"C:/Documents/Unreal Projects/HackAndSlash/goyslop/Content/Inventory/AC_Inventory.uasset",
 				"C:/Users/betri/Downloads/HackAndSlash/goyslop/Content/Inventory/TS_Occupied.uasset"
 			]
 		}
