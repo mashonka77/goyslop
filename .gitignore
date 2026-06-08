@@ -2,3 +2,11 @@ CachedAssetRegistry_0.bin
 CachedAssetRegistryDiscovery.bin
 HackAndSlash.log
 Saved/Autosaves/PackageRestoreData.json
+Binaries/Win64/HackAndSlash-Win64-Shipping.exe
+Binaries/Win64/HackAndSlash-Win64-Shipping.pdb
+Saved/Cooked/Windows/HackAndSlash/Content/ShaderArchive-Global-PCD3D_SM6-PCD3D_SM6.ushaderbytecode
+Saved/Cooked/Windows/HackAndSlash/Metadata/ShaderLibrarySource/ShaderArchive-Global-PCD3D_SM6-PCD3D_SM6.ushaderbytecode
+Saved/Shaders/PCD3D_SM6-PCD3D_SM6/ShaderCode-Global-PCD3D_SM6-PCD3D_SM6.ushaderbytecode
+Saved/StagedBuilds/Windows/HackAndSlash/Content/Paks/HackAndSlash-Windows.ucas
+Intermediate/Build/Win64/x64/HackAndSlash/Shipping/Core/SharedPCH.Core.Project.ValApi.ValExpApi.Cpp20.h.pch
+Saved/StagedBuilds/Windows/HackAndSlash/Binaries/Win64/HackAndSlash-Win64-Shipping.exe
