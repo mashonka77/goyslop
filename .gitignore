@@ -2,3 +2,7 @@ CachedAssetRegistry_0.bin
 CachedAssetRegistryDiscovery.bin
 HackAndSlash.log
 Saved/Autosaves/PackageRestoreData.json
+*.ini
+Saved/Logs/HackAndSlash.log
+*.log
+*.json
