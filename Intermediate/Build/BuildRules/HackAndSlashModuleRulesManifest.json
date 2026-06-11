@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Documents\\Unreal Projects\\HackAndSlash\\goyslop\\Intermediate\\Source\\HackAndSlash.Build.cs",
+		"C:\\Documents\\Unreal Projects\\HackAndSlash\\goyslop\\Intermediate\\Source\\HackAndSlash.Target.cs",
+		"C:\\Documents\\Unreal Projects\\HackAndSlash\\goyslop\\Intermediate\\Source\\HackAndSlashClient.Target.cs",
+		"C:\\Documents\\Unreal Projects\\HackAndSlash\\goyslop\\Intermediate\\Source\\HackAndSlashEditor.Target.cs",
+		"C:\\Documents\\Unreal Projects\\HackAndSlash\\goyslop\\Intermediate\\Source\\HackAndSlashServer.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
