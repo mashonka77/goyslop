@@ -17,3 +17,7 @@ Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
 Saved/Logs/HackAndSlash.log
 Saved/Crashes/UECC-Windows-F52DBF644638F708E55671BBB5BB4198_0000/UEMinidump.dmp
 Saved/Crashes/UECC-Windows-F52DBF644638F708E55671BBB5BB4198_0000/CrashContext.runtime-xml
+*.log
+*.bin
+*.bin
+*.bin
