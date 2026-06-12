@@ -6,3 +6,8 @@ Saved/Autosaves/PackageRestoreData.json
 Saved/Logs/HackAndSlash.log
 *.log
 *.json
+*.exe
+*.pdb
+*.ushaderbytecode
+Intermediate/Build/Win64/x64/HackAndSlash/Shipping/Core/SharedPCH.Core.Project.ValApi.ValExpApi.Cpp20.h.pch
+Saved/StagedBuilds/Windows/HackAndSlash/Content/Paks/HackAndSlash-Windows.ucas
