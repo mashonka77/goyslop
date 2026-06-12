@@ -11,3 +11,5 @@ Saved/Logs/HackAndSlash.log
 *.ushaderbytecode
 Intermediate/Build/Win64/x64/HackAndSlash/Shipping/Core/SharedPCH.Core.Project.ValApi.ValExpApi.Cpp20.h.pch
 Saved/StagedBuilds/Windows/HackAndSlash/Content/Paks/HackAndSlash-Windows.ucas
+Saved/AutoScreenshot.png
+*.ini
