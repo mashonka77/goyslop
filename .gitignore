@@ -14,3 +14,6 @@ Saved/StagedBuilds/Windows/HackAndSlash/Content/Paks/HackAndSlash-Windows.ucas
 Saved/AutoScreenshot.png
 *.ini
 Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Saved/Logs/HackAndSlash.log
+Saved/Crashes/UECC-Windows-F52DBF644638F708E55671BBB5BB4198_0000/UEMinidump.dmp
+Saved/Crashes/UECC-Windows-F52DBF644638F708E55671BBB5BB4198_0000/CrashContext.runtime-xml
