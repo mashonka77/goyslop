@@ -13194,3 +13194,7 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.06.14-17.57.48:577][911]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
 [2026.06.14-17.57.48:577][911]LogPakFile: Destroying PakPlatformFile
 [2026.06.14-17.57.48:942][911]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.06.14-17.57.49:373][911]LogExit: Exiting.
+[2026.06.14-17.57.49:379][911]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Users/User/Documents/Unreal Projects/goyslop/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2026.06.14-17.57.49:880][911]LogFileManager: Warning: DeleteFile recovered during retry!
+[2026.06.14-17.57.49:953][911]Log file closed, 06/14/26 20:57:49
