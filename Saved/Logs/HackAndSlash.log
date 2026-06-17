@@ -21595,3 +21595,395 @@ Sampler Limit: 32
 [2026.06.17-13.50.41:601][357]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10838.156250
 [2026.06.17-13.50.42:197][363]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.06.17-13.50.42:197][363]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10838.680664, Update Interval: 311.953491
+[2026.06.17-13.51.11:629][531]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.17-13.51.11:769][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.06.17-13.51.11:776][531]LogTexture: Display: Building textures: /Game/Developers/betri/MM_Base.MM_Base:PersistentLevel.Landscape_0.Heightmap_26 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2026.06.17-13.51.11:779][531]LogTexture: Display: Building textures: /Game/Developers/betri/MM_Base.MM_Base:PersistentLevel.Landscape_0.Heightmap_38 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.035149 MB), EncodeSpeed: Fast
+[2026.06.17-13.51.11:780][531]LogTexture: Display: Building textures: /Game/Developers/betri/MM_Base.MM_Base:PersistentLevel.Landscape_0.Heightmap_39 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.035149 MB), EncodeSpeed: Fast
+[2026.06.17-13.51.11:781][531]LogTexture: Display: Building textures: /Game/Developers/betri/MM_Base.MM_Base:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2026.06.17-13.51.11:781][531]LogTexture: Display: Building textures: /Game/Developers/betri/MM_Base.MM_Base:PersistentLevel.Landscape_0.Heightmap_41 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.035149 MB), EncodeSpeed: Fast
+[2026.06.17-13.51.11:783][531]LogTexture: Display: Building textures: /Game/Developers/betri/MM_Base.MM_Base:PersistentLevel.Landscape_0.Heightmap_42 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.035149 MB), EncodeSpeed: Fast
+[2026.06.17-13.51.11:783][531]LogTexture: Display: Building textures: /Game/Developers/betri/MM_Base.MM_Base:PersistentLevel.Landscape_0.Heightmap_43 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.035149 MB), EncodeSpeed: Fast
+[2026.06.17-13.51.11:784][531]LogTexture: Display: Building textures: /Game/Developers/betri/MM_Base.MM_Base:PersistentLevel.Landscape_0.Heightmap_44 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.035149 MB), EncodeSpeed: Fast
+[2026.06.17-13.51.11:785][531]LogTexture: Display: Building textures: /Game/Developers/betri/MM_Base.MM_Base:PersistentLevel.Landscape_0.Heightmap_6 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.036449 MB), EncodeSpeed: Fast
+[2026.06.17-13.51.11:785][531]LogTexture: Display: Building textures: /Game/Developers/betri/MM_Base.MM_Base:PersistentLevel.Landscape_0.Weightmap_10 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.035149 MB), EncodeSpeed: Fast
+[2026.06.17-13.51.11:786][531]LogTexture: Display: Building textures: /Game/Developers/betri/MM_Base.MM_Base:PersistentLevel.Landscape_0.Weightmap_12 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.035149 MB), EncodeSpeed: Fast
+[2026.06.17-13.51.11:787][531]LogTexture: Display: Building textures: /Game/Developers/betri/MM_Base.MM_Base:PersistentLevel.Landscape_0.Weightmap_4 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.035149 MB), EncodeSpeed: Fast
+[2026.06.17-13.51.11:810][531]LogSavePackage: Moving output files for package: /Game/Developers/betri/MM_Base
+[2026.06.17-13.51.11:810][531]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/MM_Base5AD1BD6044DBE7C56FC75BA74A15D6A7.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/MM_Base.umap'
+[2026.06.17-13.51.11:819][531]LogFileHelpers: Saving map 'MM_Base' took 0.104
+[2026.06.17-13.51.11:826][531]LogFileHelpers: InternalPromptForCheckoutAndSave took 197.102 ms (total: 24.6 sec)
+[2026.06.17-13.51.11:862][531]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.17-13.51.11:862][531]LogContentValidation: Enabled validators:
+[2026.06.17-13.51.11:862][531]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.17-13.51.11:862][531]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.17-13.51.11:862][531]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.17-13.51.11:862][531]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.17-13.51.11:862][531]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.17-13.51.11:862][531]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.17-13.51.11:862][531]AssetCheck: /Game/Developers/betri/MM_Base Validating asset
+[2026.06.17-13.51.14:126][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.06.17-13.51.15:319][663]LogSlate: Window 'Save Content' being destroyed
+[2026.06.17-13.51.15:346][663]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.17-13.51.15:384][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/MainModel/Animations/AirAttacks/AirAttack1_MainModel] ([1] browsable assets)...
+[2026.06.17-13.51.15:384][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/MainModel/Animations/AirAttacks/AirAttack1_MainModel]
+[2026.06.17-13.51.15:391][663]LogSavePackage: Moving output files for package: /Game/Player/MainModel/Animations/AirAttacks/AirAttack1_MainModel
+[2026.06.17-13.51.15:391][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/AirAttack1_MainModelE0EB72BB44F251528FC4589F1AFF091A.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Player/MainModel/Animations/AirAttacks/AirAttack1_MainModel.uasset'
+[2026.06.17-13.51.15:392][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/MainModel/Animations/HeavyAttacks/HeavyAttack2_MainModel] ([1] browsable assets)...
+[2026.06.17-13.51.15:392][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/MainModel/Animations/HeavyAttacks/HeavyAttack2_MainModel]
+[2026.06.17-13.51.15:397][663]LogSavePackage: Moving output files for package: /Game/Player/MainModel/Animations/HeavyAttacks/HeavyAttack2_MainModel
+[2026.06.17-13.51.15:397][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/HeavyAttack2_MainModelD4242BC341816697282614BBF6F731A9.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Player/MainModel/Animations/HeavyAttacks/HeavyAttack2_MainModel.uasset'
+[2026.06.17-13.51.15:399][663]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Developers/betri/Prototypes/scene/StaticMeshes/Lake] ([1] browsable assets)...
+[2026.06.17-13.51.15:442][663]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Developers/betri/Prototypes/scene/StaticMeshes/Lake.Lake]
+[2026.06.17-13.51.15:442][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/scene/StaticMeshes/Lake]
+[2026.06.17-13.51.15:444][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/scene/StaticMeshes/Lake
+[2026.06.17-13.51.15:444][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/Lake245D753E4EBE38BD480DC0B9DE4F45FA.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/scene/StaticMeshes/Lake.uasset'
+[2026.06.17-13.51.15:445][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/InterchangeAssets/gltf/M_Default] ([1] browsable assets)...
+[2026.06.17-13.51.15:445][663]OBJ SavePackage: Finished generating thumbnails for package [/InterchangeAssets/gltf/M_Default]
+[2026.06.17-13.51.15:445][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/InterchangeAssets/gltf/M_Default" FILE="../../Plugins/Interchange/Assets/Content/gltf/M_Default.uasset" SILENT=true
+[2026.06.17-13.51.15:455][663]LogSavePackage: Moving output files for package: /InterchangeAssets/gltf/M_Default
+[2026.06.17-13.51.15:455][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/M_DefaultBFD4299349213E98B3D0D0835CF99C46.tmp' to '../../Plugins/Interchange/Assets/Content/gltf/M_Default.uasset'
+[2026.06.17-13.51.15:456][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/Object_2] ([1] browsable assets)...
+[2026.06.17-13.51.15:456][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/Object_2]
+[2026.06.17-13.51.15:461][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/Object_2
+[2026.06.17-13.51.15:461][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/Object_23A432ACA4EE206CF939A23A4B8B837F6.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/Object_2.uasset'
+[2026.06.17-13.51.15:462][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/scene/StaticMeshes/Object_2] ([1] browsable assets)...
+[2026.06.17-13.51.15:462][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/scene/StaticMeshes/Object_2]
+[2026.06.17-13.51.15:466][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/scene/StaticMeshes/Object_2
+[2026.06.17-13.51.15:466][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/Object_203E20F8A46165F46425163BCE2EABECD.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/scene/StaticMeshes/Object_2.uasset'
+[2026.06.17-13.51.15:468][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/Object_2_001] ([1] browsable assets)...
+[2026.06.17-13.51.15:468][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/Object_2_001]
+[2026.06.17-13.51.15:471][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/Object_2_001
+[2026.06.17-13.51.15:472][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/Object_2_001567D6AA24EEA834CFCEC05B06FC2EB47.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/Object_2_001.uasset'
+[2026.06.17-13.51.15:473][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/Object_2_002] ([1] browsable assets)...
+[2026.06.17-13.51.15:473][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/Object_2_002]
+[2026.06.17-13.51.15:474][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/Object_2_002
+[2026.06.17-13.51.15:474][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/Object_2_00272791E6649EBD8E61F2880B54B009148.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/Object_2_002.uasset'
+[2026.06.17-13.51.15:475][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/Object_2_003] ([1] browsable assets)...
+[2026.06.17-13.51.15:475][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/Object_2_003]
+[2026.06.17-13.51.15:477][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/Object_2_003
+[2026.06.17-13.51.15:477][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/Object_2_0038B4305EB4370A3B18EE43BA80A1CC02A.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/Object_2_003.uasset'
+[2026.06.17-13.51.15:479][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/Object_2_004] ([1] browsable assets)...
+[2026.06.17-13.51.15:479][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/Object_2_004]
+[2026.06.17-13.51.15:481][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/Object_2_004
+[2026.06.17-13.51.15:481][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/Object_2_004D3AEF1384E549184DB259499B547F269.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/Object_2_004.uasset'
+[2026.06.17-13.51.15:482][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/Object_3] ([1] browsable assets)...
+[2026.06.17-13.51.15:482][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/Object_3]
+[2026.06.17-13.51.15:485][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/Object_3
+[2026.06.17-13.51.15:485][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/Object_3CBBAAA7F420AA3DEBCA53A8AD0737896.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/Object_3.uasset'
+[2026.06.17-13.51.15:486][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/scene/StaticMeshes/Object_3] ([1] browsable assets)...
+[2026.06.17-13.51.15:486][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/scene/StaticMeshes/Object_3]
+[2026.06.17-13.51.15:489][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/scene/StaticMeshes/Object_3
+[2026.06.17-13.51.15:489][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/Object_3EB19D0894DB0181FAEE13BA44EE28A7C.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/scene/StaticMeshes/Object_3.uasset'
+[2026.06.17-13.51.15:489][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/Object_4] ([1] browsable assets)...
+[2026.06.17-13.51.15:489][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/Object_4]
+[2026.06.17-13.51.15:491][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/Object_4
+[2026.06.17-13.51.15:491][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/Object_4102C51D34F105C900832569F1078A4A1.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/Object_4.uasset'
+[2026.06.17-13.51.15:492][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/scene/StaticMeshes/Object_4] ([1] browsable assets)...
+[2026.06.17-13.51.15:492][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/scene/StaticMeshes/Object_4]
+[2026.06.17-13.51.15:494][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/scene/StaticMeshes/Object_4
+[2026.06.17-13.51.15:494][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/Object_436DB74344890C6E4D05B1393617DF22B.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/scene/StaticMeshes/Object_4.uasset'
+[2026.06.17-13.51.15:495][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/Object_5] ([1] browsable assets)...
+[2026.06.17-13.51.15:495][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/Object_5]
+[2026.06.17-13.51.15:499][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/Object_5
+[2026.06.17-13.51.15:499][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/Object_5A00A203548CAE614DC7A368BDF911765.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/Object_5.uasset'
+[2026.06.17-13.51.15:500][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/scene/StaticMeshes/Object_5] ([1] browsable assets)...
+[2026.06.17-13.51.15:500][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/scene/StaticMeshes/Object_5]
+[2026.06.17-13.51.15:505][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/scene/StaticMeshes/Object_5
+[2026.06.17-13.51.15:505][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/Object_5CCEA637A4B514DC735A8CFBB9F7D12B5.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/scene/StaticMeshes/Object_5.uasset'
+[2026.06.17-13.51.15:505][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/Object_5_001] ([1] browsable assets)...
+[2026.06.17-13.51.15:505][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/Object_5_001]
+[2026.06.17-13.51.15:508][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/Object_5_001
+[2026.06.17-13.51.15:508][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/Object_5_001348D0BAE4EBF378B42E9BDB2C35EF084.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/Object_5_001.uasset'
+[2026.06.17-13.51.15:509][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/Object_6] ([1] browsable assets)...
+[2026.06.17-13.51.15:509][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/Object_6]
+[2026.06.17-13.51.15:512][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/Object_6
+[2026.06.17-13.51.15:512][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/Object_672D5644F450FD11AB36CDA9F3BFCAF5B.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/Object_6.uasset'
+[2026.06.17-13.51.15:512][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/scene/StaticMeshes/Object_6] ([1] browsable assets)...
+[2026.06.17-13.51.15:512][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/scene/StaticMeshes/Object_6]
+[2026.06.17-13.51.15:515][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/scene/StaticMeshes/Object_6
+[2026.06.17-13.51.15:515][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/Object_61827C6394E51310E883D13BF9E183E21.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/scene/StaticMeshes/Object_6.uasset'
+[2026.06.17-13.51.15:516][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/Plane] ([1] browsable assets)...
+[2026.06.17-13.51.15:516][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/Plane]
+[2026.06.17-13.51.15:516][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/betri/Prototypes/Plane" FILE="../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/Plane.uasset" SILENT=true
+[2026.06.17-13.51.15:518][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/Plane
+[2026.06.17-13.51.15:518][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/Plane4D6FC91B48F00E93FEDA0CBCABEEC60E.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/Plane.uasset'
+[2026.06.17-13.51.15:519][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Textures/T_Dark] ([1] browsable assets)...
+[2026.06.17-13.51.15:519][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Textures/T_Dark]
+[2026.06.17-13.51.15:519][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/betri/Textures/T_Dark" FILE="../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Textures/T_Dark.uasset" SILENT=true
+[2026.06.17-13.51.15:537][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Textures/T_Dark
+[2026.06.17-13.51.15:537][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/T_Dark45B8B6FD49794E67CCA3229115244875.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Textures/T_Dark.uasset'
+[2026.06.17-13.51.15:539][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Textures/T_Sand] ([1] browsable assets)...
+[2026.06.17-13.51.15:539][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Textures/T_Sand]
+[2026.06.17-13.51.15:539][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/betri/Textures/T_Sand" FILE="../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Textures/T_Sand.uasset" SILENT=true
+[2026.06.17-13.51.15:556][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Textures/T_Sand
+[2026.06.17-13.51.15:556][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/T_SandFD0AB1BB4BB7A35B475123A5F723AF3F.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Textures/T_Sand.uasset'
+[2026.06.17-13.51.15:557][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Textures/Yexture_grass] ([1] browsable assets)...
+[2026.06.17-13.51.15:557][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Textures/Yexture_grass]
+[2026.06.17-13.51.15:574][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Textures/Yexture_grass
+[2026.06.17-13.51.15:574][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/Yexture_grass01F0DC8A430EC92543A8E18B8D187C8E.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Textures/Yexture_grass.uasset'
+[2026.06.17-13.51.15:575][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/map_1blinn6SG] ([1] browsable assets)...
+[2026.06.17-13.51.15:575][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/map_1blinn6SG]
+[2026.06.17-13.51.15:579][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/map_1blinn6SG
+[2026.06.17-13.51.15:579][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/map_1blinn6SG7415D0F24C2D000265282B829BD641CF.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/map_1blinn6SG.uasset'
+[2026.06.17-13.51.15:581][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/scene/Materials/map_1blinn6SG] ([1] browsable assets)...
+[2026.06.17-13.51.15:581][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/scene/Materials/map_1blinn6SG]
+[2026.06.17-13.51.15:583][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/scene/Materials/map_1blinn6SG
+[2026.06.17-13.51.15:583][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/map_1blinn6SGE0127A384594726137DC02B5DF4DFAA7.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/scene/Materials/map_1blinn6SG.uasset'
+[2026.06.17-13.51.15:583][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/map_1blinn6SG_001] ([1] browsable assets)...
+[2026.06.17-13.51.15:584][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/map_1blinn6SG_001]
+[2026.06.17-13.51.15:586][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/map_1blinn6SG_001
+[2026.06.17-13.51.15:586][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/map_1blinn6SG_001E825137C4207603BC7331386A2F6938A.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/map_1blinn6SG_001.uasset'
+[2026.06.17-13.51.15:586][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/map_1blinn6SG_003] ([1] browsable assets)...
+[2026.06.17-13.51.15:586][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/map_1blinn6SG_003]
+[2026.06.17-13.51.15:589][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/map_1blinn6SG_003
+[2026.06.17-13.51.15:589][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/map_1blinn6SG_0033881207C4533F14D71237C9A6B0E2577.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/map_1blinn6SG_003.uasset'
+[2026.06.17-13.51.15:589][663]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Developers/betri/Prototypes/map_1blinn6SG_004] ([1] browsable assets)...
+[2026.06.17-13.51.15:597][663]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Developers/betri/Prototypes/map_1blinn6SG_004.map_1blinn6SG_004]
+[2026.06.17-13.51.15:597][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/map_1blinn6SG_004]
+[2026.06.17-13.51.15:600][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/map_1blinn6SG_004
+[2026.06.17-13.51.15:600][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/map_1blinn6SG_0048C1755DA4C0F07B6FCA7628504609BEE.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/map_1blinn6SG_004.uasset'
+[2026.06.17-13.51.15:602][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/map_1blinn6SG_baseColor] ([1] browsable assets)...
+[2026.06.17-13.51.15:602][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/map_1blinn6SG_baseColor]
+[2026.06.17-13.51.15:627][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/map_1blinn6SG_baseColor
+[2026.06.17-13.51.15:627][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/map_1blinn6SG_baseColor4388772E44A58D11903AFE8F116E2499.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/map_1blinn6SG_baseColor.uasset'
+[2026.06.17-13.51.15:629][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/scene/Textures/map_1blinn6SG_baseColor] ([1] browsable assets)...
+[2026.06.17-13.51.15:629][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/scene/Textures/map_1blinn6SG_baseColor]
+[2026.06.17-13.51.15:655][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/scene/Textures/map_1blinn6SG_baseColor
+[2026.06.17-13.51.15:655][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/map_1blinn6SG_baseColorB3784E13491C6BD3EAEE0E963388E47D.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/scene/Textures/map_1blinn6SG_baseColor.uasset'
+[2026.06.17-13.51.15:657][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/map_1lambert4SG] ([1] browsable assets)...
+[2026.06.17-13.51.15:657][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/map_1lambert4SG]
+[2026.06.17-13.51.15:659][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/map_1lambert4SG
+[2026.06.17-13.51.15:659][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/map_1lambert4SG7B13A06149CFEA97D9A607A26318AA3D.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/map_1lambert4SG.uasset'
+[2026.06.17-13.51.15:659][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/scene/Materials/map_1lambert4SG] ([1] browsable assets)...
+[2026.06.17-13.51.15:659][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/scene/Materials/map_1lambert4SG]
+[2026.06.17-13.51.15:661][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/scene/Materials/map_1lambert4SG
+[2026.06.17-13.51.15:661][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/map_1lambert4SG8B60F20842DB68D18FBF00A6F153577F.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/scene/Materials/map_1lambert4SG.uasset'
+[2026.06.17-13.51.15:662][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/map_1lambert4SG_baseColor] ([1] browsable assets)...
+[2026.06.17-13.51.15:662][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/map_1lambert4SG_baseColor]
+[2026.06.17-13.51.15:693][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/map_1lambert4SG_baseColor
+[2026.06.17-13.51.15:693][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/map_1lambert4SG_baseColorEA99DF174C7379A83153159BD41549EA.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/map_1lambert4SG_baseColor.uasset'
+[2026.06.17-13.51.15:694][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/scene/Textures/map_1lambert4SG_baseColor] ([1] browsable assets)...
+[2026.06.17-13.51.15:694][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/scene/Textures/map_1lambert4SG_baseColor]
+[2026.06.17-13.51.15:724][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/scene/Textures/map_1lambert4SG_baseColor
+[2026.06.17-13.51.15:726][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/map_1lambert4SG_baseColorE78C952348AAAF23D917CCB9DEC0B481.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/scene/Textures/map_1lambert4SG_baseColor.uasset'
+[2026.06.17-13.51.15:727][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/map_1lambert5SG] ([1] browsable assets)...
+[2026.06.17-13.51.15:727][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/map_1lambert5SG]
+[2026.06.17-13.51.15:729][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/map_1lambert5SG
+[2026.06.17-13.51.15:729][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/map_1lambert5SG5406A2D64873DC91322895B41BFBB717.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/map_1lambert5SG.uasset'
+[2026.06.17-13.51.15:730][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/scene/Materials/map_1lambert5SG] ([1] browsable assets)...
+[2026.06.17-13.51.15:730][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/scene/Materials/map_1lambert5SG]
+[2026.06.17-13.51.15:731][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/scene/Materials/map_1lambert5SG
+[2026.06.17-13.51.15:731][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/map_1lambert5SG9DA542464161E25A5A96F39EEE7D5443.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/scene/Materials/map_1lambert5SG.uasset'
+[2026.06.17-13.51.15:733][663]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Developers/betri/Prototypes/scene/StaticMeshes/map_1lambert5SG] ([1] browsable assets)...
+[2026.06.17-13.51.15:765][663]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Developers/betri/Prototypes/scene/StaticMeshes/map_1lambert5SG.map_1lambert5SG]
+[2026.06.17-13.51.15:765][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/scene/StaticMeshes/map_1lambert5SG]
+[2026.06.17-13.51.15:768][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/scene/StaticMeshes/map_1lambert5SG
+[2026.06.17-13.51.15:768][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/map_1lambert5SG3CA774014DF5925560178280C576CD06.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/scene/StaticMeshes/map_1lambert5SG.uasset'
+[2026.06.17-13.51.15:769][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/map_1lambert5SG_baseColor] ([1] browsable assets)...
+[2026.06.17-13.51.15:769][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/map_1lambert5SG_baseColor]
+[2026.06.17-13.51.15:793][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/map_1lambert5SG_baseColor
+[2026.06.17-13.51.15:794][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/map_1lambert5SG_baseColorFA20EDF34AD34415B784CEBB50EFE792.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/map_1lambert5SG_baseColor.uasset'
+[2026.06.17-13.51.15:795][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/scene/Textures/map_1lambert5SG_baseColor] ([1] browsable assets)...
+[2026.06.17-13.51.15:795][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/scene/Textures/map_1lambert5SG_baseColor]
+[2026.06.17-13.51.15:818][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/scene/Textures/map_1lambert5SG_baseColor
+[2026.06.17-13.51.15:818][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/map_1lambert5SG_baseColorDD14B0FA48289E60B3CA9887F02378C9.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/scene/Textures/map_1lambert5SG_baseColor.uasset'
+[2026.06.17-13.51.15:820][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/map_1object] ([1] browsable assets)...
+[2026.06.17-13.51.15:820][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/map_1object]
+[2026.06.17-13.51.15:822][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/map_1object
+[2026.06.17-13.51.15:822][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/map_1object8EABE5554296A6F3B70D3E9F63A1AE51.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/map_1object.uasset'
+[2026.06.17-13.51.15:823][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/scene/Materials/map_1object] ([1] browsable assets)...
+[2026.06.17-13.51.15:823][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/scene/Materials/map_1object]
+[2026.06.17-13.51.15:825][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/scene/Materials/map_1object
+[2026.06.17-13.51.15:825][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/map_1objectA7A0C7E44F5F1997B243128520490E1B.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/scene/Materials/map_1object.uasset'
+[2026.06.17-13.51.15:826][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/map_1object_001] ([1] browsable assets)...
+[2026.06.17-13.51.15:826][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/map_1object_001]
+[2026.06.17-13.51.15:828][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/map_1object_001
+[2026.06.17-13.51.15:828][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/map_1object_00145E5FEE54CF4BC2A620D09B35244B817.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/map_1object_001.uasset'
+[2026.06.17-13.51.15:829][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/map_1object_baseColor] ([1] browsable assets)...
+[2026.06.17-13.51.15:829][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/map_1object_baseColor]
+[2026.06.17-13.51.15:855][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/map_1object_baseColor
+[2026.06.17-13.51.15:855][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/map_1object_baseColor99BCFBDF44BD189F3ACA01AD0C5412C3.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/map_1object_baseColor.uasset'
+[2026.06.17-13.51.15:856][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/scene/Textures/map_1object_baseColor] ([1] browsable assets)...
+[2026.06.17-13.51.15:856][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/scene/Textures/map_1object_baseColor]
+[2026.06.17-13.51.15:883][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/scene/Textures/map_1object_baseColor
+[2026.06.17-13.51.15:883][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/map_1object_baseColor3B0DB4F244D339445F88E586621519FA.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/scene/Textures/map_1object_baseColor.uasset'
+[2026.06.17-13.51.15:884][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/map_1object_emissive] ([1] browsable assets)...
+[2026.06.17-13.51.15:884][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/map_1object_emissive]
+[2026.06.17-13.51.15:901][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/map_1object_emissive
+[2026.06.17-13.51.15:901][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/map_1object_emissive051E3888413FFDEE7BD339A809C038C5.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/map_1object_emissive.uasset'
+[2026.06.17-13.51.15:903][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/betri/Prototypes/scene/Textures/map_1object_emissive] ([1] browsable assets)...
+[2026.06.17-13.51.15:903][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Prototypes/scene/Textures/map_1object_emissive]
+[2026.06.17-13.51.15:921][663]LogSavePackage: Moving output files for package: /Game/Developers/betri/Prototypes/scene/Textures/map_1object_emissive
+[2026.06.17-13.51.15:921][663]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/map_1object_emissive14783D5C4A7DDD4D50583C82FACD6B3D.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Prototypes/scene/Textures/map_1object_emissive.uasset'
+[2026.06.17-13.51.15:929][663]LogFileHelpers: InternalPromptForCheckoutAndSave took 584.119 ms (total: 25.2 sec)
+[2026.06.17-13.51.15:970][663]LogContentValidation: Display: Starting to validate 46 assets
+[2026.06.17-13.51.15:970][663]LogContentValidation: Enabled validators:
+[2026.06.17-13.51.15:970][663]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.17-13.51.15:970][663]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.17-13.51.15:970][663]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.17-13.51.15:970][663]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.17-13.51.15:970][663]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.17-13.51.15:970][663]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.17-13.51.15:970][663]AssetCheck: /Game/Player/MainModel/Animations/AirAttacks/AirAttack1_MainModel Validating asset
+[2026.06.17-13.51.15:970][663]AssetCheck: /Game/Player/MainModel/Animations/HeavyAttacks/HeavyAttack2_MainModel Validating asset
+[2026.06.17-13.51.15:970][663]AssetCheck: /Game/Developers/betri/Prototypes/scene/StaticMeshes/Lake Validating asset
+[2026.06.17-13.51.15:970][663]AssetCheck: /InterchangeAssets/gltf/M_Default Validating asset
+[2026.06.17-13.51.15:970][663]AssetCheck: /Game/Developers/betri/Prototypes/Object_2 Validating asset
+[2026.06.17-13.51.15:970][663]AssetCheck: /Game/Developers/betri/Prototypes/scene/StaticMeshes/Object_2 Validating asset
+[2026.06.17-13.51.15:970][663]AssetCheck: /Game/Developers/betri/Prototypes/Object_2_001 Validating asset
+[2026.06.17-13.51.15:970][663]AssetCheck: /Game/Developers/betri/Prototypes/Object_2_002 Validating asset
+[2026.06.17-13.51.15:970][663]AssetCheck: /Game/Developers/betri/Prototypes/Object_2_003 Validating asset
+[2026.06.17-13.51.15:970][663]AssetCheck: /Game/Developers/betri/Prototypes/Object_2_004 Validating asset
+[2026.06.17-13.51.15:970][663]AssetCheck: /Game/Developers/betri/Prototypes/Object_3 Validating asset
+[2026.06.17-13.51.15:970][663]AssetCheck: /Game/Developers/betri/Prototypes/scene/StaticMeshes/Object_3 Validating asset
+[2026.06.17-13.51.15:970][663]AssetCheck: /Game/Developers/betri/Prototypes/Object_4 Validating asset
+[2026.06.17-13.51.15:970][663]AssetCheck: /Game/Developers/betri/Prototypes/scene/StaticMeshes/Object_4 Validating asset
+[2026.06.17-13.51.15:970][663]AssetCheck: /Game/Developers/betri/Prototypes/Object_5 Validating asset
+[2026.06.17-13.51.15:970][663]AssetCheck: /Game/Developers/betri/Prototypes/scene/StaticMeshes/Object_5 Validating asset
+[2026.06.17-13.51.15:970][663]AssetCheck: /Game/Developers/betri/Prototypes/Object_5_001 Validating asset
+[2026.06.17-13.51.15:970][663]AssetCheck: /Game/Developers/betri/Prototypes/Object_6 Validating asset
+[2026.06.17-13.51.15:970][663]AssetCheck: /Game/Developers/betri/Prototypes/scene/StaticMeshes/Object_6 Validating asset
+[2026.06.17-13.51.15:971][663]AssetCheck: /Game/Developers/betri/Prototypes/Plane Validating asset
+[2026.06.17-13.51.15:971][663]AssetCheck: /Game/Developers/betri/Textures/T_Dark Validating asset
+[2026.06.17-13.51.15:971][663]AssetCheck: /Game/Developers/betri/Textures/T_Sand Validating asset
+[2026.06.17-13.51.15:971][663]AssetCheck: /Game/Developers/betri/Textures/Yexture_grass Validating asset
+[2026.06.17-13.51.15:971][663]AssetCheck: /Game/Developers/betri/Prototypes/map_1blinn6SG Validating asset
+[2026.06.17-13.51.15:971][663]AssetCheck: /Game/Developers/betri/Prototypes/scene/Materials/map_1blinn6SG Validating asset
+[2026.06.17-13.51.15:971][663]AssetCheck: /Game/Developers/betri/Prototypes/map_1blinn6SG_001 Validating asset
+[2026.06.17-13.51.15:971][663]AssetCheck: /Game/Developers/betri/Prototypes/map_1blinn6SG_003 Validating asset
+[2026.06.17-13.51.15:971][663]AssetCheck: /Game/Developers/betri/Prototypes/map_1blinn6SG_004 Validating asset
+[2026.06.17-13.51.15:971][663]AssetCheck: /Game/Developers/betri/Prototypes/map_1blinn6SG_baseColor Validating asset
+[2026.06.17-13.51.15:971][663]AssetCheck: /Game/Developers/betri/Prototypes/scene/Textures/map_1blinn6SG_baseColor Validating asset
+[2026.06.17-13.51.15:971][663]AssetCheck: /Game/Developers/betri/Prototypes/map_1lambert4SG Validating asset
+[2026.06.17-13.51.15:971][663]AssetCheck: /Game/Developers/betri/Prototypes/scene/Materials/map_1lambert4SG Validating asset
+[2026.06.17-13.51.15:971][663]AssetCheck: /Game/Developers/betri/Prototypes/map_1lambert4SG_baseColor Validating asset
+[2026.06.17-13.51.15:971][663]AssetCheck: /Game/Developers/betri/Prototypes/scene/Textures/map_1lambert4SG_baseColor Validating asset
+[2026.06.17-13.51.15:971][663]AssetCheck: /Game/Developers/betri/Prototypes/map_1lambert5SG Validating asset
+[2026.06.17-13.51.15:971][663]AssetCheck: /Game/Developers/betri/Prototypes/scene/Materials/map_1lambert5SG Validating asset
+[2026.06.17-13.51.15:971][663]AssetCheck: /Game/Developers/betri/Prototypes/scene/StaticMeshes/map_1lambert5SG Validating asset
+[2026.06.17-13.51.15:971][663]AssetCheck: /Game/Developers/betri/Prototypes/map_1lambert5SG_baseColor Validating asset
+[2026.06.17-13.51.15:971][663]AssetCheck: /Game/Developers/betri/Prototypes/scene/Textures/map_1lambert5SG_baseColor Validating asset
+[2026.06.17-13.51.15:971][663]AssetCheck: /Game/Developers/betri/Prototypes/map_1object Validating asset
+[2026.06.17-13.51.15:971][663]AssetCheck: /Game/Developers/betri/Prototypes/scene/Materials/map_1object Validating asset
+[2026.06.17-13.51.15:971][663]AssetCheck: /Game/Developers/betri/Prototypes/map_1object_001 Validating asset
+[2026.06.17-13.51.15:971][663]AssetCheck: /Game/Developers/betri/Prototypes/map_1object_baseColor Validating asset
+[2026.06.17-13.51.15:971][663]AssetCheck: /Game/Developers/betri/Prototypes/scene/Textures/map_1object_baseColor Validating asset
+[2026.06.17-13.51.15:971][663]AssetCheck: /Game/Developers/betri/Prototypes/map_1object_emissive Validating asset
+[2026.06.17-13.51.15:971][663]AssetCheck: /Game/Developers/betri/Prototypes/scene/Textures/map_1object_emissive Validating asset
+[2026.06.17-13.51.15:991][663]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.17-13.51.16:075][665]LogStaticMesh: Warning: Invalid material [map_1lambert5SG] used on Nanite static mesh [Object_6]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.17-13.51.16:075][665]LogStaticMesh: Warning: Invalid material [map_1lambert5SG] used on Nanite static mesh [Object_6]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.17-13.51.16:075][665]LogStaticMesh: Warning: Invalid material [map_1lambert5SG] used on Nanite static mesh [Object_6]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.17-13.51.16:075][665]LogStaticMesh: Warning: Invalid material [map_1lambert5SG] used on Nanite static mesh [Object_6]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.17-13.51.16:075][665]LogStaticMesh: Warning: Invalid material [map_1lambert5SG] used on Nanite static mesh [Object_6]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.17-13.51.16:075][665]LogStaticMesh: Warning: Invalid material [map_1lambert5SG] used on Nanite static mesh [Object_6]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.17-13.51.16:075][665]LogStaticMesh: Warning: Invalid material [map_1lambert5SG] used on Nanite static mesh [Object_6]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.17-13.51.16:075][665]LogStaticMesh: Warning: Invalid material [map_1lambert5SG] used on Nanite static mesh [Object_6]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.17-13.51.16:075][665]LogStaticMesh: Warning: Invalid material [map_1lambert5SG] used on Nanite static mesh [Object_6]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.17-13.51.23:842][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.06.17-13.51.23:899][844]LogStall: Shutdown...
+[2026.06.17-13.51.23:899][844]LogStall: Shutdown complete.
+[2026.06.17-13.51.23:961][844]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.06.17-13.51.23:961][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.17-13.51.24:084][844]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2026.06.17-13.51.24:084][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.17-13.51.24:173][844]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2026.06.17-13.51.24:174][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.17-13.51.24:257][844]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2026.06.17-13.51.24:263][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.17-13.51.24:271][844]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2026.06.17-13.51.24:273][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.17-13.51.24:328][844]LogSlate: Window 'HackAndSlash - Unreal Editor' being destroyed
+[2026.06.17-13.51.24:877][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.06.17-13.51.24:911][845]Cmd: QUIT_EDITOR
+[2026.06.17-13.51.24:911][845]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.06.17-13.51.24:920][845]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.06.17-13.51.24:922][845]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.06.17-13.51.24:922][845]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.06.17-13.51.24:926][845]LogWorld: UWorld::CleanupWorld for MM_Base, bSessionEnded=true, bCleanupResources=true
+[2026.06.17-13.51.24:932][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.17-13.51.24:950][845]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.06.17-13.51.24:951][845]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.06.17-13.51.24:956][845]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.06.17-13.51.25:004][845]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.06.17-13.51.25:004][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.17-13.51.25:005][845]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.06.17-13.51.25:007][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.17-13.51.25:010][845]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.06.17-13.51.25:014][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.17-13.51.25:014][845]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.06.17-13.51.25:014][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.17-13.51.25:014][845]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.06.17-13.51.25:014][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.17-13.51.25:015][845]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.06.17-13.51.25:015][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.17-13.51.25:016][845]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.06.17-13.51.25:016][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.17-13.51.25:019][845]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.06.17-13.51.25:019][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.17-13.51.25:021][845]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.06.17-13.51.25:021][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.17-13.51.25:023][845]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.06.17-13.51.25:023][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.17-13.51.25:029][845]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.06.17-13.51.25:029][845]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.06.17-13.51.25:033][845]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.06.17-13.51.25:694][845]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.06.17-13.51.25:694][845]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.06.17-13.51.25:694][845]LogAudio: Display: Audio Device unregistered from world 'MM_Base'.
+[2026.06.17-13.51.25:694][845]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.06.17-13.51.25:694][845]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.06.17-13.51.25:696][845]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.06.17-13.51.25:704][845]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.06.17-13.51.25:704][845]LogAudio: Display: Audio Device Manager Shutdown
+[2026.06.17-13.51.25:706][845]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2026.06.17-13.51.25:710][845]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.06.17-13.51.25:710][845]LogExit: Preparing to exit.
+[2026.06.17-13.51.25:790][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.06.17-13.51.25:801][845]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.17-13.51.25:801][845]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.17-13.51.25:801][845]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.17-13.51.25:801][845]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.17-13.51.25:801][845]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.17-13.51.25:801][845]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.17-13.51.25:801][845]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.17-13.51.25:801][845]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.17-13.51.25:801][845]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.17-13.51.25:801][845]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.17-13.51.25:801][845]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.17-13.51.25:801][845]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.17-13.51.25:801][845]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.17-13.51.25:801][845]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.17-13.51.25:801][845]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.17-13.51.25:801][845]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.17-13.51.25:801][845]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.17-13.51.25:801][845]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.17-13.51.25:801][845]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.17-13.51.25:801][845]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.17-13.51.25:801][845]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.17-13.51.26:599][845]LogEditorDataStorage: Deinitializing
+[2026.06.17-13.51.26:849][845]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.06.17-13.51.26:919][845]LogExit: Editor shut down
+[2026.06.17-13.51.26:924][845]LogExit: Transaction tracking system shut down
+[2026.06.17-13.51.27:535][845]LogExit: Object subsystem successfully closed.
+[2026.06.17-13.51.27:635][845]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.06.17-13.51.27:906][845]LogMemoryProfiler: Shutdown
+[2026.06.17-13.51.27:908][845]LogNetworkingProfiler: Shutdown
+[2026.06.17-13.51.27:909][845]LoadingProfiler: Shutdown
+[2026.06.17-13.51.27:910][845]LogTimingProfiler: Shutdown
+[2026.06.17-13.51.27:922][845]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.06.17-13.51.27:923][845]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.06.17-13.51.28:333][845]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.06.17-13.51.28:336][845]RenderDocPlugin: plugin has been unloaded.
+[2026.06.17-13.51.28:355][845]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.06.17-13.51.28:355][845]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B77001704-45B6-3D22-827B-2A881DA84F88%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=49b3d0e9479ca243b1005fb0338f875b%7C11d4f1aa4fde480e84863c190ccd210d%7Cf08a8d91-487c-48a2-a9a7-faea36d2380f&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.06.17-13.51.28:936][845]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.06.17-13.51.28:942][845]LogNFORDenoise: NFORDenoise function shutting down
+[2026.06.17-13.51.28:951][845]LogXGEController: Cleaning working directory: C:/Users/betri/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.06.17-13.51.28:961][845]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.06.17-13.51.28:961][845]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.06.17-13.51.28:961][845]LogPakFile: Destroying PakPlatformFile
+[2026.06.17-13.51.29:608][845]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.06.17-13.51.29:688][845]LogExit: Exiting.
+[2026.06.17-13.51.29:721][845]Log file closed, 06/17/26 16:51:29
