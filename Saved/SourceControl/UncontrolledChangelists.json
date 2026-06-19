@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Interface/WBP_Hints.uasset",
+				"C:/Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Interface/WBP_MainMenu.uasset",
+				"C:/Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Interface/Wbp_Arenas.uasset",
+				"C:/Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/MM_Base.umap",
 				"D:/Users/User/Documents/Unreal Projects/goyslop/Content/Player/MainModel/Animations/Attacks/Main_Stinger.uasset",
 				"D:/Users/User/Documents/Unreal Projects/goyslop/Content/Player/Sounds/Location/Campfire_Ambient.uasset",
 				"D:/Users/User/Documents/Unreal Projects/goyslop/Content/Player/Sounds/Location/Cricket_Ambient.uasset",
