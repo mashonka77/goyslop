@@ -18501,3 +18501,67 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.06.19-15.13.42:031][922]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
 [2026.06.19-15.13.42:545][923]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
 [2026.06.19-15.13.43:046][925]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.19-15.13.43:559][926]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.19-15.13.44:060][928]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.19-15.13.44:574][929]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.19-15.13.45:075][931]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.19-15.13.45:578][932]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.19-15.13.46:079][934]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.19-15.13.46:581][935]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.19-15.13.47:082][937]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.19-15.13.47:595][938]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.19-15.13.48:096][974]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.19-15.13.48:295][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.06.19-15.13.48:600][  8]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.19-15.13.49:101][ 39]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.19-15.13.49:300][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.06.19-15.13.49:366][ 53]LogStall: Shutdown...
+[2026.06.19-15.13.49:366][ 53]LogStall: Shutdown complete.
+[2026.06.19-15.13.49:409][ 53]LogSlate: Window 'HackAndSlash - Unreal Editor' being destroyed
+[2026.06.19-15.13.49:547][ 54]Cmd: QUIT_EDITOR
+[2026.06.19-15.13.49:547][ 54]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.06.19-15.13.49:552][ 54]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.06.19-15.13.49:552][ 54]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.06.19-15.13.49:552][ 54]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.06.19-15.13.49:553][ 54]LogWorld: UWorld::CleanupWorld for MM_Map, bSessionEnded=true, bCleanupResources=true
+[2026.06.19-15.13.49:553][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.19-15.13.49:566][ 54]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.06.19-15.13.49:566][ 54]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.06.19-15.13.49:566][ 54]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.06.19-15.13.49:573][ 54]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.06.19-15.13.49:573][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.19-15.13.49:573][ 54]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.06.19-15.13.49:573][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.19-15.13.49:573][ 54]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.06.19-15.13.49:573][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.19-15.13.49:573][ 54]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.06.19-15.13.49:574][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.19-15.13.49:574][ 54]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.06.19-15.13.49:574][ 54]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.06.19-15.13.49:577][ 54]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.06.19-15.13.49:603][ 54]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.19-15.13.50:104][ 54]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.19-15.13.50:608][ 54]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.19-15.13.51:108][ 54]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.19-15.13.51:622][ 54]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.19-15.13.52:123][ 54]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.19-15.13.52:626][ 54]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.19-15.13.53:127][ 54]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.19-15.13.53:630][ 54]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.19-15.13.54:130][ 54]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.19-15.13.54:633][ 54]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.19-15.13.55:134][ 54]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.19-15.13.55:639][ 54]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.19-15.13.56:140][ 54]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.19-15.13.56:655][ 54]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.19-15.13.57:156][ 54]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.19-15.13.57:658][ 54]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.19-15.13.58:159][ 54]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.19-15.13.58:661][ 54]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.19-15.13.59:162][ 54]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.19-15.13.59:675][ 54]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.19-15.14.00:176][ 54]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.19-15.14.00:679][ 54]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.19-15.14.01:180][ 54]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
+[2026.06.19-15.14.01:694][ 54]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0. Response: 
+[2026.06.19-15.14.02:194][ 54]LogZenServiceInstance: Found existing instance running on port 8558 matching our settings, no actions needed
