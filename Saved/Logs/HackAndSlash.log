@@ -1197,3 +1197,28 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.06.19-15.33.47:081][548]LogDeviceProfileManager: Display: Deviceprofile Android_Multi not found.
 [2026.06.19-15.33.49:204][779]LogSlate: Window 'Pary_anim1' being destroyed
 [2026.06.19-15.33.52:771][187]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Developers/betri/Textures/Pary_anim2.Pary_anim2
+[2026.06.19-15.34.29:576][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.06.19-15.34.30:700][942]LogSlate: Window 'Save Content' being destroyed
+[2026.06.19-15.34.30:710][942]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.19-15.34.30:740][942]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Developers/betri/Textures/Pary_anim1] ([1] browsable assets)...
+[2026.06.19-15.34.30:745][942]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Developers/betri/Textures/Pary_anim1.Pary_anim1]
+[2026.06.19-15.34.30:745][942]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Textures/Pary_anim1]
+[2026.06.19-15.34.30:761][942]LogSavePackage: Moving output files for package: /Game/Developers/betri/Textures/Pary_anim1
+[2026.06.19-15.34.30:761][942]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/Pary_anim1BB40A4694EFFBFCD6307358A799CE8E6.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Textures/Pary_anim1.uasset'
+[2026.06.19-15.34.30:762][942]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Developers/betri/Textures/Pary_anim2] ([1] browsable assets)...
+[2026.06.19-15.34.30:767][942]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Developers/betri/Textures/Pary_anim2.Pary_anim2]
+[2026.06.19-15.34.30:767][942]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/betri/Textures/Pary_anim2]
+[2026.06.19-15.34.30:780][942]LogSavePackage: Moving output files for package: /Game/Developers/betri/Textures/Pary_anim2
+[2026.06.19-15.34.30:780][942]LogSavePackage: Moving '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/Pary_anim234B8D768420962F00D3BE992EC4B6B9F.tmp' to '../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Content/Developers/betri/Textures/Pary_anim2.uasset'
+[2026.06.19-15.34.30:791][942]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.135 ms
+[2026.06.19-15.34.30:825][942]LogContentValidation: Display: Starting to validate 2 assets
+[2026.06.19-15.34.30:825][942]LogContentValidation: Enabled validators:
+[2026.06.19-15.34.30:825][942]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.19-15.34.30:825][942]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.19-15.34.30:825][942]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.19-15.34.30:825][942]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.19-15.34.30:825][942]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.19-15.34.30:825][942]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.19-15.34.30:826][942]AssetCheck: /Game/Developers/betri/Textures/Pary_anim1 Validating asset
+[2026.06.19-15.34.30:826][942]AssetCheck: /Game/Developers/betri/Textures/Pary_anim2 Validating asset
+[2026.06.19-15.34.30:848][942]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/betri/Downloads/HackAndSlash/goyslop/Saved/SourceControl/UncontrolledChangelists.json
