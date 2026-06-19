@@ -1,2 +1,3 @@
-2026/06/16-23:14:19.683 7810 Creating DB C:/Users/betri/Downloads/HackAndSlash/goyslop/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/06/16-23:14:19.688 7810 Reusing MANIFEST C:/Users/betri/Downloads/HackAndSlash/goyslop/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/06/18-16:17:33.129 8dcc Reusing MANIFEST C:/Users/betri/Downloads/HackAndSlash/goyslop/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/06/18-16:17:33.133 8dcc Recovering log #3
+2026/06/18-16:17:33.134 8dcc Reusing old log C:/Users/betri/Downloads/HackAndSlash/goyslop/Saved/webcache_4430\Local Storage\leveldb/000003.log 
